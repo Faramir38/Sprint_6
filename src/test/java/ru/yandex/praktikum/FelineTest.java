@@ -1,3 +1,6 @@
+//ошибка была с объявлениями пакетов
+//напахал с гитом, пришлось персоздать
+
 package ru.yandex.praktikum;
 
 import org.junit.Assert;
