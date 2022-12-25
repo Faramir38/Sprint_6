@@ -1,4 +1,4 @@
-package ru.yandex.praktitum;
+package ru.yandex.praktikum;
 
 import java.util.List;
 

@@ -1,3 +1,5 @@
+package ru.yandex.praktikum;
+
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -6,8 +8,6 @@ import org.junit.runners.Parameterized;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
-import ru.yandex.praktikum.Feline;
-import ru.yandex.praktikum.Lion;
 
 import java.util.List;
 

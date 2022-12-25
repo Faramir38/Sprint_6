@@ -1,11 +1,11 @@
+package ru.yandex.praktikum;
+
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
-import ru.yandex.praktikum.Cat;
-import ru.yandex.praktikum.Feline;
 
 import java.util.List;
 
