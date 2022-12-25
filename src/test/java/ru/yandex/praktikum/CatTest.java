@@ -41,7 +41,7 @@ public class CatTest {
         //Act
         List<String> actualResult = cat.getFood();
         //Assert
-        Assert.assertEquals("Возвращаемый список должен быть: [Животные, Птицы, Рыба]",
+        Assert.assertEquals("Возвращаемый список должен быть:[Животные, Птицы, Рыба]",
                 expectedResult, actualResult);
 
     }
