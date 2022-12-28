@@ -1,5 +1,5 @@
 //ошибка была с объявлениями пакетов
-//напахал с гитом, пришлось персоздать
+//напахал с гитом, пришлось пересоздать, комменты к сожалению потерялись(
 
 package ru.yandex.praktikum;
 
@@ -42,7 +42,8 @@ public class FelineTest {
         //Act
         List<String> actualList = feline.eatMeat();
         //Assert
-        Assert.assertEquals("Выведен неверный список в eatMeat", expectedList, actualList);
+        Assert.assertEquals("Возвращаемый список должен быть: ['Животные', 'Птицы', 'Рыба'] ",
+                expectedList, actualList);
     }
 
     @Test
